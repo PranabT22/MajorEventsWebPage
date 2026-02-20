@@ -1,0 +1,28 @@
+  h1{
+  color:blue;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+p{
+  font-size: 20;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+ul {
+  list-style-type:circle ;
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 27px;
+  background-color: #2196F3;
+  color: white;
+  line-height:2;
+}
+
+ul{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+body {
+  background-color: #00cc66;
+}
